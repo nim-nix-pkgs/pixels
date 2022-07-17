@@ -71,11 +71,11 @@
     "src-pixels-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1652793908,
-        "narHash": "sha256-0IISaYs3hSjt8PPHLAM8N0pU3omYpwKpgsOo76s0I6Q=",
+        "lastModified": 1657916100,
+        "narHash": "sha256-PG7SqMbbV1rFxtMBtIrcsBqfx97fd5SA3xHzTCgFWZc=",
         "owner": "Araq",
         "repo": "pixels",
-        "rev": "44c9486b179fcb345f6ff389306ded4976f7c15b",
+        "rev": "ee631e41b28e7390cf50ad2136e086842436ac81",
         "type": "github"
       },
       "original": {
